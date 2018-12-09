@@ -1,0 +1,23 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "Amazon-like storefront CLI app",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Purerange/Bamazon.git"
+  },
+  "author": "Stevie Marsh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Purerange/Bamazon/issues"
+  },
+  "homepage": "https://github.com/Purerange/Bamazon#readme",
+  "dependencies": {
+    "inquirer": "^6.2.1",
+    "mysql": "^2.16.0"
+  }
+}
